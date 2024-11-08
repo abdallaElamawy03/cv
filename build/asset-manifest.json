@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c482344.css",
+    "main.js": "/static/js/main.f94fa22b.js",
+    "static/js/453.21c91e48.chunk.js": "/static/js/453.21c91e48.chunk.js",
+    "static/media/ana.png": "/static/media/ana.ee14942ca46d304f615b.png",
+    "static/media/cairo-1.jpg": "/static/media/cairo-1.81386325b5e94629e3f6.jpg",
+    "static/media/design-1.png": "/static/media/design-1.b9aaefa5b07f62943097.png",
+    "static/media/dubai_1.jpg": "/static/media/dubai_1.b97887c7b77c020e3e43.jpg",
+    "static/media/github.png": "/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/bahrain_1.jpeg": "/static/media/bahrain_1.0d9c53ea803b38cf3b50.jpeg",
+    "static/media/paris_1.jpeg": "/static/media/paris_1.4144b7481bc673744688.jpeg",
+    "static/media/riyadh_1.jpeg": "/static/media/riyadh_1.0c256f45f05283e71237.jpeg",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/index.html",
+    "main.9c482344.css.map": "/static/css/main.9c482344.css.map",
+    "main.f94fa22b.js.map": "/static/js/main.f94fa22b.js.map",
+    "453.21c91e48.chunk.js.map": "/static/js/453.21c91e48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c482344.css",
+    "static/js/main.f94fa22b.js"
+  ]
+}
